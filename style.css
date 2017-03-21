@@ -1,0 +1,261 @@
+body {
+	background-image:url("http://adoptaunsuflet.ro/images/header-bej.png");
+	font: 1,4px/1,4 Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin:0;
+	text-align: center;
+
+}
+/*body form {*/
+	/*background-image: url(http://www.freeiconspng.com/uploads/app-style-transparent-png-facebook-5.png) no-repeat ;*/
+	/*}*/
+
+  /*Global*/
+}
+.containar {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	
+}
+	ul {
+	margin: 0;
+   	padding: 0;
+   }
+
+   .button_1{
+   	height: 40px;
+   	background: #e8491d;
+   	border:0;
+   	padding-left: 20px;
+   	padding-right: 20px;
+   	color: #ffffff
+   }
+   #buton {
+   	/*text-align: center;*/
+
+
+
+   }
+
+   .dark {
+   	padding: 15px;
+   	background: #35424a;
+   	color: #ffffff;
+   	margin-top: 10px;
+   	margin-bottom: 10px;
+   }
+
+   /*Header*/
+   header {
+   	background: #35424a;
+   	color:#ffffff;
+   	padding-top: 30px;
+   	min-height: 70px;
+   	border-bottom: #e8491d 3px solid;
+   }
+
+   header a {
+   	color: #ffffff;
+   	text-decoration: none;
+   	text-transform: uppercase;
+   	font-size: 16px; 
+   }
+
+   header li {
+   	float: left;
+   	display: inline;
+   	padding: 0 20px 0 20px;
+   }
+
+   header #brend {
+   	float: left;
+   }
+
+   header #brend h1 {
+   	margin: 0;
+   }
+
+   header nav {
+   	float: right;
+   	margin-top: 10px;
+   }
+
+   header .brend, header .curent a {
+   	color: #e8491d;
+   	font-weight: bold;
+   }
+
+   header a:hover {
+   	color: #cccccc;
+   	font-weight: bold;
+   }
+
+   /*#casa {*/
+   	/*min-height: 400px;*/
+   	/*background: url(https://www.efamilia.ro/wp-content/uploads/Ciobanesc-german-300x200.jpg) /*no-repeat 0 -400px;*/
+   	/*text-align: center;*/
+   	/*color: #ffffff;*/
+   /*}*/
+
+   #casa h2 {
+   	margin-top: 100px;
+   	font-size: 55px;
+   	margin-bottom: 30px;
+   	background: url(http://pisoi-fotografii.backgroundwallpaper.pictures/Imagini-1920-1080/Rase-de-pisici-cu-labe-mari-142.jpg) no-repeat -200px -400px;
+    min-height: 400px;
+   	text-align: center;
+   	color: #ffffff;
+   	margin: 0;
+   	padding: 0;
+   	font-size: 30px;
+   	
+
+   }
+
+   #boxes p{
+   	margin-top: 20px;
+   }
+
+
+   /*new*/
+
+   #new {
+   	padding: 15px;
+   	color: #ffffff
+   	background: #35424a;
+   }
+
+   aside#main-red {
+   	float: right;
+   	width: 50%;
+   	margin-top: 10px;
+   }
+
+   article#main-col {
+   	float:left;
+   	width: 50%;
+   	padding-left: 20px;
+   	padding-right: 20px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /*#new h1 {*/
+   	/*float:left;*/
+   /*}*/
+   
+   /*#new form {*/
+   	/*float: left;*/
+   	/*margin-top: 15px;*/
+   /*}*/
+
+   /*#new input [type="email"]{*/
+   	/*padding: 4px;*/
+   	/*height: 25px;*/
+   	/*width: 250px;*/
+   /*}*/
+
+   /*box*/
+
+   /*#box {*/
+   	/*margin-top: 20px;*/
+   /*}*/
+
+   /*#fb {*/
+   	/*width: 70px;*/
+   	/*height: 70px;*/
+   	/*object-fit: cover;*/
+   /*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /*#boxes .box {
+   	float: left;
+   	text-align: center;
+   	width: 30%;
+   	padding: 10px;
+   }*/
+
+
+
+
+
+
+/*.brend {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 80px;
+}*/
